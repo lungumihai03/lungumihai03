@@ -11,8 +11,8 @@ Hi there! 👋 I'm Mihai Lungu, a passionate programmer. Welcome to my GitHub pr
 
 ## Languages and Tools
 
-- 💻 Proficient in C# and C++.
-- 🛠️ Experience with Microsoft Office and Visual Studio 2022.
+- 💻 Proficient in C#, C++, Python, JS, PHP, HTML, CSS.
+- 🛠️ Experience with Microsoft Office, Visual Studio 2022, Visual Studio Code, Adobe Dreamweaver 2021.
 
 ## Contact
 
