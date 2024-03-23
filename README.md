@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/mihai_lungu"><img src="https://api.daily.dev/devcards/v2/TlqccPhEEZ97nqJcxf8Ix.png?type=wide&r=spc" width="652" alt="Mihai Lungu's Dev Card"/></a>
+
 # Mihai Lungu   
 
 Hi there! 👋 I'm Mihai Lungu, a passionate programmer. Welcome to my GitHub profile!
