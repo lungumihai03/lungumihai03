@@ -13,8 +13,8 @@
 
 ## Languages and Tools
 
-### <li>💻 Proficient in C#, C++, SQL, Python, JS, PHP, HTML, CSS.
-### <li>🛠️ Experience with Microsoft Office, Visual Studio 2022, Visual Studio Code, Adobe Dreamweaver 2021.
+### <li>💻 Proficient in C#, C++, SQL, JS, PHP, HTML, CSS.
+### <li>🛠️ Experience with Visual Studio 2022, Visual Studio Code.
 
 ## Contact
 
