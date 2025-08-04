@@ -1,6 +1,6 @@
 # 💫 About Me:
 <center><img src="https://www.mihailungu.com/header.png" width="auto" height="auto" alt="Mihai Lungu's Dev Card"/></center><br><br>
-### Hi there! 👋 I'm Mihai Lungu, a passionate programmer. Welcome to my GitHub profile!
+## Hi there! 👋 I'm Mihai Lungu, a passionate programmer. Welcome to my GitHub profile!
 
 ## About Me
 
